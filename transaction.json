@@ -1,0 +1,6 @@
+// 交易端请求内容
+{
+  "sender":"my address",
+  "recipient":"someone else's address",
+  "amount":5
+}
